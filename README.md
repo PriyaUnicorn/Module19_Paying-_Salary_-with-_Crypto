@@ -59,7 +59,7 @@ The steps for this Challenge are divided into the following sections:
 ##### Send a transaction using the Fintech Finder app
 
 
-![Video Recording of Send Transaction]("https://myoctocat.com/assets/images/Screen Recording 2022-11-13 at 6.49.18 PM.mov")
+![Video Recording of Send Transaction](Images/Video.gif)
 
 
 ##### Provide screenshots from Ganache that show the sender’s address balance and history, and the recipient's address balance and history.
